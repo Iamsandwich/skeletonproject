@@ -53,3 +53,46 @@ button:hover{
     margin: 0.2em;
 }
 
+.player{
+    text-align: center;
+    margin: 2em;
+}
+
+#songimage{
+    height: 2em;
+    border-radius: 5px;
+}
+
+#songname, #artistname{
+    position: relative;
+    display: inline-block;
+    color: aliceblue;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin: 0.3em;
+    margin-bottom: 1em;
+}
+
+#slidersong{
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+    width: 20em;
+    height: 0.5em;
+    border-radius: 4px;
+    background: repeating-linear-gradient(45deg, white, white 12px, gray 12px, gray 24px);
+}
+
+#slidersong::-webkit-slider-thumb {
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+    background: rgb(0, 0, 0);
+    border-radius: 10px;
+    border: 1px solid black;
+    width: 10px;
+    height: 10px;
+}
+
+#musicbuttons{
+    margin-top: 0.5em;
+}
