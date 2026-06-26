@@ -22,3 +22,11 @@
      <img src="img/dance dance skeleton.gif" alt="dance dance skeleton">
      <img src="IMG/pole skeledancing.webp" alt="pole skeledancing">
      <img src="img/my honest skeleton.gif" alt="my honest skeleton">
+     <img src="img/dab skelet.webp" alt="dab skelet">
+     <img src="img/plastic skeleton.webp" alt="plastic skeleton">
+     <img src="img/jiggle skelet.gif" alt="jiggle skelet">
+     <img src="img/Bored skeelt.webp" alt="Bored skeelt">
+     <img src="img/skelemoji dance.webp" alt="skelemoji dance">
+     <img src="img/you lazy skelet.gif" alt="you lazy skelet">
+     <img src="img/thinking skelet.webp" alt="thinking skelet">
+     <img src="img/shocked skelet.gif" alt="shocked skelet">
