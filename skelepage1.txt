@@ -1,0 +1,27 @@
+    <img src="img/boney meal.gif" alt="a boney meal">
+    <img src="img/cant catch the cheezit.gif" alt="can't catch the cheezit">
+    <img src="img/dance for me.gif" alt="dance for me">
+    <img src="img/dancing colorful skelet.gif" alt="colorful skeleton dance">
+    <img src="img/dancing fucking skelet.gif" alt="dancing skelet">
+    <img src="img/dancing on black.gif" alt="dancing on black">
+    <img src="img/dancing skeletons from corpse bride.gif" alt="corpse bride dancing skeletons">
+    <img src="img/he is hurt.gif" alt="he is hurt">
+    <img src="img/i throw my skull in your general direciton.gif" alt="i throw my skull in your general direciton">
+    <img src="img/me and my fams.gif" alt="me and my fams">
+    <img src="img/nhs.gif" alt="nhs">
+    <img src="img/old dancing skeletons.gif" alt="old dancing skeletons">
+    <img src="img/sassy walk skeleton.gif" alt="sassy walk skeelton">
+    <img src="img/skelezilly.gif" alt="skelezilly">
+    <img src="img/supportive skeleton.gif" alt="supportive skeleton">
+    <img src="img/swaggy skeeldance.gif" alt="swaggy skeeldance">
+    <img src="img/the strut.gif" alt="the strut">
+    <img src="img/trapped in a chest.gif" alt="trapped in a chest">
+    <img src="img/two of them.gif" alt="two of them">
+    <img src="img/work away.gif" alt="work away">
+    <img src="img/Why he fallin.gif" alt="why he fallin">
+    <img src="img/slap those hip.gif" alt="slap those hip">
+    <img src="img/little skeledance.gif" alt="little skeledance">
+    <img src="img/cant stand it.gif" alt="cant stand it">
+    <img src="img/why he spinning.gif" alt="why he spinning">
+    <img src="img/speak no skele.gif" alt="speak no skele">
+    <img src="img/tophat dance.gif" alt="tophat dance">
