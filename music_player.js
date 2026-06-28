@@ -33,6 +33,48 @@ const songs = [
         artist:"dootdoot Band E1M1 DOOT",
         audio:"/Music/dootdoot Band E1M1 DOOT.m4a"
     },
+
+    {
+        image:"/IMG/pole skeledancing.webp",
+        name:"Monster Mash",
+        artist:"Bobby Pickett",
+        audio:"/Music/Bobby Pickett - Monster Mash.m4a"
+    },
+
+    {
+        image:"/IMG/skelezilly.gif",
+        name:"Addam's Family song",
+        artist:"Vic Mizzy",
+        audio:"/Music/The Addams Family Theme song.m4a"
+    },
+
+    {
+        image:"/IMG/thinking skelet.webp",
+        name:"Haunted Harmonies",
+        artist:"Timeless Music",
+        audio:"/Music/Haunted Harmonies.opus"
+    },
+
+    {
+        image:"/IMG/trapped in a chest.gif",
+        name:"The Boys Are Back in Town (to kill you)",
+        artist:"Jerry Terry",
+        audio:"/Music/The Boys Are Back in Town (to kill you).m4a"
+    },
+
+    {
+        image:"/IMG/you lazy skelet.gif",
+        name:"Kiss Me (Kill Me)",
+        artist:"Jerry Terry",
+        audio:"/Music/Kiss Me (Kill Me).m4a"
+    },
+
+    {
+        image:"/IMG/hmm skull.webp",
+        name:"Super Ghostbusters - I am the rat man",
+        artist:"Joel Vargskelethor",
+        audio:"/Music/I AM THE RAT MAN.m4a"
+    },
 ];
 
 const audio = document.createElement("audio");

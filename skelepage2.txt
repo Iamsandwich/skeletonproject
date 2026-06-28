@@ -1,4 +1,4 @@
-    <a href="https://www.survivingateacherssalary.com/diy-skeleton-frame-halloween-wall-decor-tutorial/"><img src="img/diy skeleton wall.jpg" alt="DIY skeleton wall"></a>
+    <a href="https://www.survivingateacherssalary.com/diy-skeleton-frame-halloween-wall-decor-tutorial/" target="blank"><img src="img/diy skeleton wall.jpg" alt="DIY skeleton wall"></a>
     <img src="img/im skelethinking.gif" alt="im skelethinking">
     <img src="img/medievil skelet.gif" alt="medievil skelet">
     <img src="img/who-asked-the-skeleton-did.gif" alt="who-asked-the-skeleton-did">
