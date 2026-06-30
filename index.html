@@ -20,22 +20,32 @@
 
 <div class="player">
 
-    <img id="songimage" src="img/boney meal.gif">
+    <img id="songimage">
     <div class="songinfo">
-        Now Playing:
-        <div id="songname">Name: </div>
-    Artist:
-    <div id="artistname">Artist: </div></div>
+        <div class="nowplaying">Now Playing:</div>
+        <div id="songname">Name</div>
+        
+    <div class="nowplaying">Artist:</div>
+    <div id="artistname">Artist</div>
+</div>
     
-    <input id="slidersong" type="range">
+    <div class="sliderandbuttons">
+     <input id="slidersong" type="range" step="any" min="0" max="100">
+       <div id="volumelol">
+        <img id="volumebutton" src="img/skeletin-skulll.gif" alt="volume">
+       </div> 
+     <input id="volumeslider" type="range" step="0.001" min="0" max="1">
+    </div>
 
     <div id="musicbuttons">
-        <img id="shufflesong" src="img/shuffle button.png" alt="shuffle button">
-        <img id="previoussong" src="img/previous button.png" alt="previous button">
+        <div id="shufflingimg"><img id="shufflesong" src="img/shuffle button off.png" alt="shuffle button"></div>
+        <img id="previoussong" src="img/back button.png" alt="previous button">
         <img id="playsong" src="img/play button.png" alt="play button">
         <img id="pausesong" src="img/pause button.png" alt="pause button">
-        <img id="nextsong" src="img/next button.png" alt="next button">
-        <img id="loopsong" src="img/loop button.png" alt="loop button">
+        <img id="nextsong" src="img/forward button.png" alt="next button">
+        <div id="loopbuttonimg"><img id="loopsong" src="img/loop button.png" alt="loop button"></div> 
+    </div>
+
     </div>
     
     <div class="audio">

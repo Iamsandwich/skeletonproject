@@ -61,7 +61,17 @@ button:hover{
 #songimage{
     height: 2em;
     border-radius: 5px;
+    position: relative;
+    display: inline-block;
 }
+
+#nowplaying, #songname, #artistname, .nowplaying{
+    display: inline-block;
+}
+
+.nowplaying{
+    font-size: 1.2vw;
+ }
 
 .songinfo{
     position: relative;
@@ -80,28 +90,35 @@ button:hover{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     margin: 0.3em;
     margin-bottom: 1em;
-    font-size: 0.9em;
+    font-size: 1.5vw;
 }
 
 
 
 
 
-#slidersong{
+#slidersong, #volumeslider{
     -webkit-appearance: none;
     -moz-appearance: none;
     appearance: none;
-    width: 20em;
+    width: 30vw;
     height: 0.5em;
     border-radius: 4px;
+    border: 2px rgb(129, 129, 129) solid;
     background: repeating-linear-gradient(45deg, white, white 12px, gray 12px, gray 24px);
+}
+
+#volumeslider{
+    width: 15vw;
+    background: repeating-linear-gradient(45deg, rgb(79, 79, 79), rgb(79, 79, 79) 12px, rgb(31, 30, 30) 12px, rgb(31, 30, 30) 24px);
+    border: 2px black solid;
 }
 
 #slidersong::-webkit-scrollbar-track-piece{
     background-color: black;
 }
 
-#slidersong::-webkit-slider-thumb {
+#slidersong::-webkit-slider-thumb, #volumeslider::-webkit-slider-thumb {
     -webkit-appearance: none;
     -moz-appearance: none;
     appearance: none;
@@ -112,8 +129,9 @@ button:hover{
     height: 20px;
 }
 
-#musicbuttons{
+#musicbuttons, #shufflingimg, #loopbuttonimg{
     margin-top: 0.5em;
+    display: inline-block;
 }
 
 .skelemployee{
@@ -137,5 +155,9 @@ button:hover{
 }
 
 .name{
+    display: inline-block;
+}
+
+#volumelol{
     display: inline-block;
 }
