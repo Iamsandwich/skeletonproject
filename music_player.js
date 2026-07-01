@@ -86,6 +86,13 @@ var songs = [
         audio:"/Music/Halloween Special Somebody's Watching Me.m4a"
     },
 
+     {
+        image:"/IMG/medievil skelet.gif",
+        name:"Land of the Dead",
+        artist:"Aurelio Voltaire Hernandez",
+        audio:"/Music/Land of the Dead (128kbit_AAC).m4a"
+    },
+
 ];
 
 const audio = document.createElement("audio");
