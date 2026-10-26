@@ -9,3 +9,36 @@
     <br><br>
 
     <img src="img/cracking skull emoji.gif" alt="cracking skull emoji">
+    <img src="img/Skeletons in water.gif" alt="Skeletons in water">
+    <img src="img/Skull throwing.gif" alt="Skull throwing">
+    <img src="img/slow dancing skeleton.gif" alt="slow dancing skeleton">
+    <img src="img/boo.webp" alt="boo">
+    <img src="img/shield hit slow.webp" alt="shield hit slow">
+    <img src="img/free him.webp" alt="free him">
+    <a href="https://www.youtube.com/watch?v=MfLPIsE9KUY" target="_blank"><img src="img/minecraft skeleton.webp" alt="minecraft skeleton"></a>
+    <img src="img/help him he explodes.webp" alt="help him he explodes">
+    <img src="img/flying in space.webp" alt="flying in space">
+    <img src="img/we about to whoop ass.webp" alt="we about to whoop ass">
+    <img src="img/plant music.webp" alt="plant music">
+    <img src="img/unfunny.webp" alt="unfunny">
+    <img src="img/pondering orb.webp" alt="pondering orb">
+    <img src="img/dancing skeler times.webp" alt="dancing skeler times">
+    <img src="img/hmm skelet.webp" alt="hmm skelet">
+    <img src="img/moony.webp" alt="moony">
+    <img src="IMG/my bone flute.webp" alt="my bone flute">
+    <img src="img/greem .webp" alt="greem ">
+    <img src="img/fuckin tricks.webp" alt="fuckin tricks">
+    <img src="img/skelesaddingot.webp" alt="skelesaddingot">
+    <img src="img/too much sugar bruh.webp" alt="too much sugar bruh">
+    <img src="img/deniend nooo o o.webp" alt="deniend nooo o o">
+    <img src="img/wasteful.webp" alt="wasteful">
+    <img src="img/ay yo freaky.webp" alt="ay yo freaky">
+    <img src="img/turkey.webp" alt="turkey">
+    <img src="img/pumpkin skelet.webp" alt="pumpkin skelet">
+    <img src="img/pirate.webp" alt="pirate">
+    <img src="img/halloweeeeeeeeeeeeeeeeen.webp" alt="halloweeeeeeeeeeeeeeeeen">
+
+
+
+
+
